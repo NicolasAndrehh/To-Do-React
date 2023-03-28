@@ -31,7 +31,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Math Magicians React <a name="about-project"></a>
+# 📖 To Do React <a name="about-project"></a>
 
 
 **To Do React** is created with React is a web application that allows users to create, manage and organize their daily tasks or to-do lists using an intuitive and responsive interface..
